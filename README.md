@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cabesonwiliams
 - 👀 I’m interested in : Cybersecurity && Programming.
-- 🌱 I’m currently learning : Python, batch, html and css
+- 🌱 I’m currently learning : Python, batch, java
 - 💞️ I’m looking to collaborate on : Hacking Projects
 - 📫 You can Reach me at : cabesonsinz@gmail.com
 - 💻 Programming Skills : Python, Batch
