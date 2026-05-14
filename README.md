@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cabesonsinz
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Python C++ Algorithms 
+- 🌱 I’m currently learning Python C Algorithms 
 - 📫 How to reach me noWHERE
 - ⚡ Fun fact: I like low level programming
 
